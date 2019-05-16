@@ -1,4 +1,4 @@
-The code for the paper [Private Q-Learning with Functional Noise in Continuous Spaces
+The code for the paper [Privacy-preserving Q-Learning with Functional Noise in Continuous Spaces
 ](https://arxiv.org/abs/1901.10634)
 
 To test the code, run
