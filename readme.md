@@ -6,4 +6,4 @@ To test the code, run
 python dpql.py seed sigma
 ```
 
-Albernatively, the step-to-step notebook guide is available on __readme.ipynb__
+Alternatively, the step-to-step notebook guide is available on __readme.ipynb__
